@@ -3,7 +3,7 @@ main: com.triqnpc.TriqNPCPlugin
 version: 0.1.0
 api-version: '1.20'
 authors: [ wxrrry ]
-website: https://example.com
+website: https://t.me/triqnews
 description: by wxrry x TRIQ x ESLL.
 
 commands:

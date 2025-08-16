@@ -1,0 +1,20 @@
+name: TriqNPC
+main: com.triqnpc.TriqNPCPlugin
+version: 0.1.0
+api-version: '1.20'
+authors: [ wxrrry ]
+website: https://example.com
+description: by wxrry x TRIQ x ESLL.
+
+commands:
+  triqnpc:
+    description: Manage NPCs
+    usage: /<command>
+    permission: triqnpc.admin
+    aliases: [ tnpc ]
+
+permissions:
+  triqnpc.admin:
+    description: Allows using all TriqNPC admin commands
+    default: op
+
